@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Gods vniuersal right proclaimed A sermon preached at Paules Crosse, the 27. of March 1603. being the
+
 #####Body#####
-Gods vniuersal right proclaimed A sermon preached at Paules Crosse, the 27. of March 1603. being the
+
+1. ❧Gods vniuersall right proclaimed.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
